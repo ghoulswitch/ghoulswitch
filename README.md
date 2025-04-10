@@ -14,8 +14,6 @@
 </div>
  
 <br>
-
-Repositórios que contam a história — em código — do que venho construindo.
  
 ###    .・。.・゜✭・.・✫・゜・。.
  
